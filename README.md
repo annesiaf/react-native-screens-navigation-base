@@ -1,6 +1,10 @@
 ## Aplicacion base en React Native
 -------------------------------------------------
 
+## Ejemplo de la Aplicacion
+![blogspot](https://user-images.githubusercontent.com/66213550/136045073-b116be31-5279-4b59-93fa-de9d59463f07.png)
+
+-------------------------------------------------
 
 ## Requisitos previos
 Configuracion del entorno de desarrollo:
