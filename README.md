@@ -46,6 +46,11 @@ export default Screen;
 
 Una vez tenemos nuestro App y nuestras pantallas podemos comenzar con la navegación:
 
+## Importante:
+
+Tanto en Getting Started como en Stack Navigator, debemos seguir la documentacion a pie de letra, pero:
+Solamente la parte que dice React Native o React Native CLI (No la que dice Expo).
+
 Paso 1 - [Getting Started](https://reactnavigation.org/docs/getting-started/)
 
 
