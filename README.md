@@ -1,8 +1,8 @@
 ## Aplicacion base en React Native
 -------------------------------------------------
 
-## Ejemplo de la Aplicacion
-![blogspot](https://user-images.githubusercontent.com/66213550/136045073-b116be31-5279-4b59-93fa-de9d59463f07.png)
+## Ejemplo de la Aplicacion + CRUD
+![Navegacion](https://user-images.githubusercontent.com/66213550/136408081-a86e9283-75d9-4e96-bea7-31747a89a98f.png)
 
 -------------------------------------------------
 
